@@ -8,7 +8,7 @@
 import Foundation
 
 
-class CommonFunctions {
+public class CommonFunctions {
     
     static let shared = CommonFunctions()
     
