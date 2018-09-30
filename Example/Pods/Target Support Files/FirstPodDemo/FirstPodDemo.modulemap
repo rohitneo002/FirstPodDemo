@@ -1,0 +1,6 @@
+framework module FirstPodDemo {
+  umbrella header "FirstPodDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

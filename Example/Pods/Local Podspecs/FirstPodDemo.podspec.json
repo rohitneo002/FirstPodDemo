@@ -1,0 +1,22 @@
+{
+  "name": "FirstPodDemo",
+  "version": "0.1.0",
+  "summary": "A short description of FirstPodDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Rohitash/FirstPodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Rohitash": "rohitneo002@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Rohitash/FirstPodDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FirstPodDemo/Classes/**/*"
+}
